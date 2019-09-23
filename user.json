@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "index":"0",
+            "Name": "SteveMcQueen",
+            "tags":[
+                {
+                    "education": "5",
+                    "technology": "3",
+                    "space": "5",
+                    "science":"5",
+                    "apple": "3",
+                    "business": "3",
+                    "china": "0",
+                    "hongkong": "0",
+                    "protest":"0",
+                    "riot":"0",
+                    "trump": "0",
+                    "US":"0"
+                }
+            ]
+        }
+    ]
+}

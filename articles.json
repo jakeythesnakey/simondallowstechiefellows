@@ -1,0 +1,61 @@
+{
+    "articles":[
+        {
+            "index":"1",
+            "articleName": "Apple has a new phone!",
+            "videoSuffix": "sBRdoo6Iczs",
+            "photoLink":"1.jpg",
+            "tags":[
+                {
+                    "education": "2",
+                    "technology": "3",
+                    "space": "5",
+                    "science":"5"
+                }
+            ]
+        },
+        {
+            "index":"2",
+            "articleName": "A New Earth?",
+            "videoSuffix": "zyljFO8fIPA",
+            "photoLink":"2.jpg",
+            "tags": [
+                {
+                    "apple": "5",
+                    "technology": "5",
+                    "business": "3",
+                    "science":"1"
+                }
+            ]
+        },
+        {
+            "index":"3",
+            "articleName": "Hong Kong PM Calls for Peace",
+            "videoSuffix": "ZaKUF2Dx-h8",
+            "photoLink":"3.jpg",
+            "tags": [
+                {
+                    "business": "1",
+                    "china": "3",
+                    "hongkong": "5",
+                    "protest":"5",
+                    "riot":"5"
+                }
+            ]
+        },
+        { 
+            "index":"4",
+            "articleName": "Tensions Ease in Trade War",
+            "videoSuffix": "AKswoeUzzhY",
+            "photoLink":"4.jpg",
+            "tags": [
+                {
+                    "business": "5",
+                    "china": "5",
+                    "trump": "3",
+                    "US":"5"
+                }
+            ]
+        }
+    ]
+}
